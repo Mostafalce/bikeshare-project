@@ -3,7 +3,7 @@
 ### Project Title
 change project title to bikeshare-project
 ### Description
-Project is based on analysis of data using python
+data analysis of chicago,whashinton and newyork cities
 ### Files used
 Include the files used
 
