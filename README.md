@@ -1,6 +1,5 @@
 ### Date created
-Include data of bikeshare.py and update README file
-
+26 Febrary 2020
 ### Project Title
 Replace project title to bikeshare-project
 ### Description
