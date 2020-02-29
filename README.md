@@ -3,8 +3,7 @@
 ### Project Title
 change project title to bikeshare-project
 ### Description
-Project is analyse database of bikeshare using python
-
+Project is based on analysis of data using python
 ### Files used
 Include the files used
 
